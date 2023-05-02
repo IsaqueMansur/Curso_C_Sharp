@@ -1,0 +1,8 @@
+C:\Cursos\C#\LacosComBreakEContinue\LacosComBreakEContinue\bin\Debug\LacosComBreakEContinue.exe.config
+C:\Cursos\C#\LacosComBreakEContinue\LacosComBreakEContinue\bin\Debug\LacosComBreakEContinue.exe
+C:\Cursos\C#\LacosComBreakEContinue\LacosComBreakEContinue\bin\Debug\LacosComBreakEContinue.pdb
+C:\Cursos\C#\LacosComBreakEContinue\LacosComBreakEContinue\obj\Debug\LacosComBreakEContinue.csproj.AssemblyReference.cache
+C:\Cursos\C#\LacosComBreakEContinue\LacosComBreakEContinue\obj\Debug\LacosComBreakEContinue.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\LacosComBreakEContinue\LacosComBreakEContinue\obj\Debug\LacosComBreakEContinue.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\LacosComBreakEContinue\LacosComBreakEContinue\obj\Debug\LacosComBreakEContinue.exe
+C:\Cursos\C#\LacosComBreakEContinue\LacosComBreakEContinue\obj\Debug\LacosComBreakEContinue.pdb
