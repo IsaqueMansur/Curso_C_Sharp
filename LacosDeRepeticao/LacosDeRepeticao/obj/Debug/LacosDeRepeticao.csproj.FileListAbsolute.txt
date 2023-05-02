@@ -1,0 +1,8 @@
+C:\Cursos\C#\LacosDeRepeticao\LacosDeRepeticao\bin\Debug\LacosDeRepeticao.exe.config
+C:\Cursos\C#\LacosDeRepeticao\LacosDeRepeticao\bin\Debug\LacosDeRepeticao.exe
+C:\Cursos\C#\LacosDeRepeticao\LacosDeRepeticao\bin\Debug\LacosDeRepeticao.pdb
+C:\Cursos\C#\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.csproj.AssemblyReference.cache
+C:\Cursos\C#\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.exe
+C:\Cursos\C#\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.pdb
