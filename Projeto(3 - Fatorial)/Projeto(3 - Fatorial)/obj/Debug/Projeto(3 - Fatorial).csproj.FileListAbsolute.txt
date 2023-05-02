@@ -1,0 +1,8 @@
+C:\Cursos\C#\Projeto(3 - Fatorial)\Projeto(3 - Fatorial)\obj\Debug\Projeto(3 - Fatorial).csproj.AssemblyReference.cache
+C:\Cursos\C#\Projeto(3 - Fatorial)\Projeto(3 - Fatorial)\obj\Debug\Projeto(3 - Fatorial).csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\Projeto(3 - Fatorial)\Projeto(3 - Fatorial)\obj\Debug\Projeto(3 - Fatorial).csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Projeto(3 - Fatorial)\Projeto(3 - Fatorial)\bin\Debug\Projeto(3 - Fatorial).exe.config
+C:\Cursos\C#\Projeto(3 - Fatorial)\Projeto(3 - Fatorial)\bin\Debug\Projeto(3 - Fatorial).exe
+C:\Cursos\C#\Projeto(3 - Fatorial)\Projeto(3 - Fatorial)\bin\Debug\Projeto(3 - Fatorial).pdb
+C:\Cursos\C#\Projeto(3 - Fatorial)\Projeto(3 - Fatorial)\obj\Debug\Projeto(3 - Fatorial).exe
+C:\Cursos\C#\Projeto(3 - Fatorial)\Projeto(3 - Fatorial)\obj\Debug\Projeto(3 - Fatorial).pdb
