@@ -1,0 +1,8 @@
+C:\Cursos\C#\SystemAuthenticateUser\SystemAuthenticateUser\bin\Debug\SystemAuthenticateUser.exe.config
+C:\Cursos\C#\SystemAuthenticateUser\SystemAuthenticateUser\bin\Debug\SystemAuthenticateUser.exe
+C:\Cursos\C#\SystemAuthenticateUser\SystemAuthenticateUser\bin\Debug\SystemAuthenticateUser.pdb
+C:\Cursos\C#\SystemAuthenticateUser\SystemAuthenticateUser\obj\Debug\SystemAuthenticateUser.csproj.AssemblyReference.cache
+C:\Cursos\C#\SystemAuthenticateUser\SystemAuthenticateUser\obj\Debug\SystemAuthenticateUser.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\SystemAuthenticateUser\SystemAuthenticateUser\obj\Debug\SystemAuthenticateUser.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SystemAuthenticateUser\SystemAuthenticateUser\obj\Debug\SystemAuthenticateUser.exe
+C:\Cursos\C#\SystemAuthenticateUser\SystemAuthenticateUser\obj\Debug\SystemAuthenticateUser.pdb
