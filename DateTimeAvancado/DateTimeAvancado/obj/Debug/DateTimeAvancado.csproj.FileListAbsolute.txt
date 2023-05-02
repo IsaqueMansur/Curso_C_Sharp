@@ -1,0 +1,8 @@
+C:\Cursos\C#\DateTimeAvancado\DateTimeAvancado\bin\Debug\DateTimeAvancado.exe.config
+C:\Cursos\C#\DateTimeAvancado\DateTimeAvancado\bin\Debug\DateTimeAvancado.exe
+C:\Cursos\C#\DateTimeAvancado\DateTimeAvancado\bin\Debug\DateTimeAvancado.pdb
+C:\Cursos\C#\DateTimeAvancado\DateTimeAvancado\obj\Debug\DateTimeAvancado.csproj.AssemblyReference.cache
+C:\Cursos\C#\DateTimeAvancado\DateTimeAvancado\obj\Debug\DateTimeAvancado.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\DateTimeAvancado\DateTimeAvancado\obj\Debug\DateTimeAvancado.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\DateTimeAvancado\DateTimeAvancado\obj\Debug\DateTimeAvancado.exe
+C:\Cursos\C#\DateTimeAvancado\DateTimeAvancado\obj\Debug\DateTimeAvancado.pdb
