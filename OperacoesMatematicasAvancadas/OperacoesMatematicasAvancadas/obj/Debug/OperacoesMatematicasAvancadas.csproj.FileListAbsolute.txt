@@ -1,0 +1,8 @@
+C:\Cursos\C#\OperacoesMatematicasAvancadas\OperacoesMatematicasAvancadas\bin\Debug\OperacoesMatematicasAvancadas.exe.config
+C:\Cursos\C#\OperacoesMatematicasAvancadas\OperacoesMatematicasAvancadas\bin\Debug\OperacoesMatematicasAvancadas.exe
+C:\Cursos\C#\OperacoesMatematicasAvancadas\OperacoesMatematicasAvancadas\bin\Debug\OperacoesMatematicasAvancadas.pdb
+C:\Cursos\C#\OperacoesMatematicasAvancadas\OperacoesMatematicasAvancadas\obj\Debug\OperacoesMatematicasAvancadas.csproj.AssemblyReference.cache
+C:\Cursos\C#\OperacoesMatematicasAvancadas\OperacoesMatematicasAvancadas\obj\Debug\OperacoesMatematicasAvancadas.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\OperacoesMatematicasAvancadas\OperacoesMatematicasAvancadas\obj\Debug\OperacoesMatematicasAvancadas.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\OperacoesMatematicasAvancadas\OperacoesMatematicasAvancadas\obj\Debug\OperacoesMatematicasAvancadas.exe
+C:\Cursos\C#\OperacoesMatematicasAvancadas\OperacoesMatematicasAvancadas\obj\Debug\OperacoesMatematicasAvancadas.pdb
