@@ -1,0 +1,8 @@
+C:\Cursos\C#\EstruturasDecisao\EstruturasDecisao\bin\Debug\EstruturasDecisao.exe.config
+C:\Cursos\C#\EstruturasDecisao\EstruturasDecisao\bin\Debug\EstruturasDecisao.exe
+C:\Cursos\C#\EstruturasDecisao\EstruturasDecisao\bin\Debug\EstruturasDecisao.pdb
+C:\Cursos\C#\EstruturasDecisao\EstruturasDecisao\obj\Debug\EstruturasDecisao.csproj.AssemblyReference.cache
+C:\Cursos\C#\EstruturasDecisao\EstruturasDecisao\obj\Debug\EstruturasDecisao.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\EstruturasDecisao\EstruturasDecisao\obj\Debug\EstruturasDecisao.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\EstruturasDecisao\EstruturasDecisao\obj\Debug\EstruturasDecisao.exe
+C:\Cursos\C#\EstruturasDecisao\EstruturasDecisao\obj\Debug\EstruturasDecisao.pdb

@@ -1,0 +1,8 @@
+C:\Cursos\C#\VariaveisEConversoes\VariaveisEConversoes\bin\Debug\VariaveisEConversoes.exe.config
+C:\Cursos\C#\VariaveisEConversoes\VariaveisEConversoes\bin\Debug\VariaveisEConversoes.exe
+C:\Cursos\C#\VariaveisEConversoes\VariaveisEConversoes\bin\Debug\VariaveisEConversoes.pdb
+C:\Cursos\C#\VariaveisEConversoes\VariaveisEConversoes\obj\Debug\VariaveisEConversoes.csproj.AssemblyReference.cache
+C:\Cursos\C#\VariaveisEConversoes\VariaveisEConversoes\obj\Debug\VariaveisEConversoes.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\VariaveisEConversoes\VariaveisEConversoes\obj\Debug\VariaveisEConversoes.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\VariaveisEConversoes\VariaveisEConversoes\obj\Debug\VariaveisEConversoes.exe
+C:\Cursos\C#\VariaveisEConversoes\VariaveisEConversoes\obj\Debug\VariaveisEConversoes.pdb

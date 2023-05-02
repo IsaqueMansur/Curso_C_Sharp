@@ -1,0 +1,8 @@
+C:\Cursos\C#\LogicaBooleana\LogicaBooleana\bin\Debug\LogicaBooleana.exe.config
+C:\Cursos\C#\LogicaBooleana\LogicaBooleana\bin\Debug\LogicaBooleana.exe
+C:\Cursos\C#\LogicaBooleana\LogicaBooleana\bin\Debug\LogicaBooleana.pdb
+C:\Cursos\C#\LogicaBooleana\LogicaBooleana\obj\Debug\LogicaBooleana.csproj.AssemblyReference.cache
+C:\Cursos\C#\LogicaBooleana\LogicaBooleana\obj\Debug\LogicaBooleana.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\LogicaBooleana\LogicaBooleana\obj\Debug\LogicaBooleana.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\LogicaBooleana\LogicaBooleana\obj\Debug\LogicaBooleana.exe
+C:\Cursos\C#\LogicaBooleana\LogicaBooleana\obj\Debug\LogicaBooleana.pdb

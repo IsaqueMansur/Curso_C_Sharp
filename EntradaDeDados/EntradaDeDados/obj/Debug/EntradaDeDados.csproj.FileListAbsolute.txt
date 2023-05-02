@@ -1,0 +1,8 @@
+C:\Cursos\C#\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.exe.config
+C:\Cursos\C#\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.exe
+C:\Cursos\C#\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.pdb
+C:\Cursos\C#\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.AssemblyReference.cache
+C:\Cursos\C#\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.exe
+C:\Cursos\C#\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.pdb

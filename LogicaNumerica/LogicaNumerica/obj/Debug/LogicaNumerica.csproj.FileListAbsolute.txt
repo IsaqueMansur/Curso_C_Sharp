@@ -1,0 +1,8 @@
+C:\Cursos\C#\LogicaNumerica\LogicaNumerica\bin\Debug\LogicaNumerica.exe.config
+C:\Cursos\C#\LogicaNumerica\LogicaNumerica\bin\Debug\LogicaNumerica.exe
+C:\Cursos\C#\LogicaNumerica\LogicaNumerica\bin\Debug\LogicaNumerica.pdb
+C:\Cursos\C#\LogicaNumerica\LogicaNumerica\obj\Debug\LogicaNumerica.csproj.AssemblyReference.cache
+C:\Cursos\C#\LogicaNumerica\LogicaNumerica\obj\Debug\LogicaNumerica.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\LogicaNumerica\LogicaNumerica\obj\Debug\LogicaNumerica.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\LogicaNumerica\LogicaNumerica\obj\Debug\LogicaNumerica.exe
+C:\Cursos\C#\LogicaNumerica\LogicaNumerica\obj\Debug\LogicaNumerica.pdb
