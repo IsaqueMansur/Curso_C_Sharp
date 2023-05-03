@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulacaoDeStrings", "ManipulacaoDeStrings\ManipulacaoDeStrings.csproj", "{8F8F1FD5-3B4E-4F1C-949F-4B26D3E0747E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F8F1FD5-3B4E-4F1C-949F-4B26D3E0747E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8F1FD5-3B4E-4F1C-949F-4B26D3E0747E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8F1FD5-3B4E-4F1C-949F-4B26D3E0747E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8F1FD5-3B4E-4F1C-949F-4B26D3E0747E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B3E390-B8FA-4075-83DB-BB714D42F9F7}
+	EndGlobalSection
+EndGlobal

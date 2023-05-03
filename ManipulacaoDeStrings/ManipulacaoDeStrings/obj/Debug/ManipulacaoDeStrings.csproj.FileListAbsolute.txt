@@ -1,0 +1,8 @@
+C:\Cursos\C#\ManipulacaoDeStrings\ManipulacaoDeStrings\bin\Debug\ManipulacaoDeStrings.exe.config
+C:\Cursos\C#\ManipulacaoDeStrings\ManipulacaoDeStrings\bin\Debug\ManipulacaoDeStrings.exe
+C:\Cursos\C#\ManipulacaoDeStrings\ManipulacaoDeStrings\bin\Debug\ManipulacaoDeStrings.pdb
+C:\Cursos\C#\ManipulacaoDeStrings\ManipulacaoDeStrings\obj\Debug\ManipulacaoDeStrings.csproj.AssemblyReference.cache
+C:\Cursos\C#\ManipulacaoDeStrings\ManipulacaoDeStrings\obj\Debug\ManipulacaoDeStrings.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\ManipulacaoDeStrings\ManipulacaoDeStrings\obj\Debug\ManipulacaoDeStrings.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\ManipulacaoDeStrings\ManipulacaoDeStrings\obj\Debug\ManipulacaoDeStrings.exe
+C:\Cursos\C#\ManipulacaoDeStrings\ManipulacaoDeStrings\obj\Debug\ManipulacaoDeStrings.pdb
