@@ -1,0 +1,8 @@
+C:\Cursos\C#\ManipulandoArquivos\ManipulandoArquivos\bin\Debug\ManipulandoArquivos.exe.config
+C:\Cursos\C#\ManipulandoArquivos\ManipulandoArquivos\bin\Debug\ManipulandoArquivos.exe
+C:\Cursos\C#\ManipulandoArquivos\ManipulandoArquivos\bin\Debug\ManipulandoArquivos.pdb
+C:\Cursos\C#\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\ManipulandoArquivos.csproj.AssemblyReference.cache
+C:\Cursos\C#\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\ManipulandoArquivos.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\ManipulandoArquivos.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\ManipulandoArquivos.exe
+C:\Cursos\C#\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\ManipulandoArquivos.pdb
