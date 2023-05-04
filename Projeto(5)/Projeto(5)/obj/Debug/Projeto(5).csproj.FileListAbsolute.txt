@@ -1,0 +1,8 @@
+C:\Cursos\C#\Projeto(5)\Projeto(5)\bin\Debug\Projeto(5).exe.config
+C:\Cursos\C#\Projeto(5)\Projeto(5)\bin\Debug\Projeto(5).exe
+C:\Cursos\C#\Projeto(5)\Projeto(5)\bin\Debug\Projeto(5).pdb
+C:\Cursos\C#\Projeto(5)\Projeto(5)\obj\Debug\Projeto(5).csproj.AssemblyReference.cache
+C:\Cursos\C#\Projeto(5)\Projeto(5)\obj\Debug\Projeto(5).csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\Projeto(5)\Projeto(5)\obj\Debug\Projeto(5).csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Projeto(5)\Projeto(5)\obj\Debug\Projeto(5).exe
+C:\Cursos\C#\Projeto(5)\Projeto(5)\obj\Debug\Projeto(5).pdb
