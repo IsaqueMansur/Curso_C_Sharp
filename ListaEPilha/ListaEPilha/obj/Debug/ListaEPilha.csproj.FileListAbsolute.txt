@@ -1,0 +1,8 @@
+C:\Cursos\C#\ListaEPilha\ListaEPilha\bin\Debug\ListaEPilha.exe.config
+C:\Cursos\C#\ListaEPilha\ListaEPilha\bin\Debug\ListaEPilha.exe
+C:\Cursos\C#\ListaEPilha\ListaEPilha\bin\Debug\ListaEPilha.pdb
+C:\Cursos\C#\ListaEPilha\ListaEPilha\obj\Debug\ListaEPilha.csproj.AssemblyReference.cache
+C:\Cursos\C#\ListaEPilha\ListaEPilha\obj\Debug\ListaEPilha.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\ListaEPilha\ListaEPilha\obj\Debug\ListaEPilha.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\ListaEPilha\ListaEPilha\obj\Debug\ListaEPilha.exe
+C:\Cursos\C#\ListaEPilha\ListaEPilha\obj\Debug\ListaEPilha.pdb
