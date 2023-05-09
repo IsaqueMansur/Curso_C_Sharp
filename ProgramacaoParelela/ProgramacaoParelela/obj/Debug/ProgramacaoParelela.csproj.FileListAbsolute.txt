@@ -1,0 +1,8 @@
+C:\Cursos\C#\ProgramacaoParelela\ProgramacaoParelela\bin\Debug\ProgramacaoParelela.exe.config
+C:\Cursos\C#\ProgramacaoParelela\ProgramacaoParelela\bin\Debug\ProgramacaoParelela.exe
+C:\Cursos\C#\ProgramacaoParelela\ProgramacaoParelela\bin\Debug\ProgramacaoParelela.pdb
+C:\Cursos\C#\ProgramacaoParelela\ProgramacaoParelela\obj\Debug\ProgramacaoParelela.csproj.AssemblyReference.cache
+C:\Cursos\C#\ProgramacaoParelela\ProgramacaoParelela\obj\Debug\ProgramacaoParelela.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\ProgramacaoParelela\ProgramacaoParelela\obj\Debug\ProgramacaoParelela.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\ProgramacaoParelela\ProgramacaoParelela\obj\Debug\ProgramacaoParelela.exe
+C:\Cursos\C#\ProgramacaoParelela\ProgramacaoParelela\obj\Debug\ProgramacaoParelela.pdb
