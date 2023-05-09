@@ -1,0 +1,8 @@
+C:\Cursos\C#\Threads(Avancado)\Threads(Avancado)\bin\Debug\Threads(Avancado).exe.config
+C:\Cursos\C#\Threads(Avancado)\Threads(Avancado)\bin\Debug\Threads(Avancado).exe
+C:\Cursos\C#\Threads(Avancado)\Threads(Avancado)\bin\Debug\Threads(Avancado).pdb
+C:\Cursos\C#\Threads(Avancado)\Threads(Avancado)\obj\Debug\Threads(Avancado).csproj.AssemblyReference.cache
+C:\Cursos\C#\Threads(Avancado)\Threads(Avancado)\obj\Debug\Threads(Avancado).csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\Threads(Avancado)\Threads(Avancado)\obj\Debug\Threads(Avancado).csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Threads(Avancado)\Threads(Avancado)\obj\Debug\Threads(Avancado).exe
+C:\Cursos\C#\Threads(Avancado)\Threads(Avancado)\obj\Debug\Threads(Avancado).pdb
