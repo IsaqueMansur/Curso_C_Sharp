@@ -1,0 +1,8 @@
+C:\Cursos\C#\MutexESemaphore\MutexESemaphore\bin\Debug\MutexESemaphore.exe.config
+C:\Cursos\C#\MutexESemaphore\MutexESemaphore\bin\Debug\MutexESemaphore.exe
+C:\Cursos\C#\MutexESemaphore\MutexESemaphore\bin\Debug\MutexESemaphore.pdb
+C:\Cursos\C#\MutexESemaphore\MutexESemaphore\obj\Debug\MutexESemaphore.csproj.AssemblyReference.cache
+C:\Cursos\C#\MutexESemaphore\MutexESemaphore\obj\Debug\MutexESemaphore.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\MutexESemaphore\MutexESemaphore\obj\Debug\MutexESemaphore.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\MutexESemaphore\MutexESemaphore\obj\Debug\MutexESemaphore.exe
+C:\Cursos\C#\MutexESemaphore\MutexESemaphore\obj\Debug\MutexESemaphore.pdb
