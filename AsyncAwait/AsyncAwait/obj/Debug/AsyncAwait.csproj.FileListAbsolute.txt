@@ -1,0 +1,8 @@
+C:\Cursos\C#\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Cursos\C#\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Cursos\C#\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Cursos\C#\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.AssemblyReference.cache
+C:\Cursos\C#\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Cursos\C#\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
